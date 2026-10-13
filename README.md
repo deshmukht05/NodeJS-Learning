@@ -249,6 +249,5 @@ You are free to use, modify, and learn from the notes and code examples.
 
 Created by **Tushar Deshmukh**
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- GitHub: https://github.com/deshmukht05
+- Email: tushardeshmukh354@example.com
