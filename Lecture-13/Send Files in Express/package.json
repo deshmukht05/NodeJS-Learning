@@ -1,0 +1,17 @@
+{
+  "name": "send-files-in-express",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "tushar deshmukh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --env-file=.env --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "zod": "^4.6.7"
+  }
+}
